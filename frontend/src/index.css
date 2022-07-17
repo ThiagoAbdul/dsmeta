@@ -31,3 +31,13 @@ a, a:hover, a:visited {
     color: unset;
     text-decoration: none;
 }
+
+section#sales {
+    padding: 40px 10px;
+}
+
+.dsmeta-card {
+    background-color: var(--card-color);
+    border-radius: 10px;
+    padding: 30px 10px;
+}
